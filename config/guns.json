@@ -1,0 +1,352 @@
+[
+  {
+    "name": "AS VAL",
+    "cartridge": "9x39",
+    "type": "Assault Carbine"
+  },
+  {
+    "name": "OP-SKS",
+    "cartridge": "762x39",
+    "type": "Assault Carbine"
+  },
+  {
+    "name": "SKS",
+    "cartridge": "762x39",
+    "type": "Assault Carbine"
+  },
+  {
+    "name": "Vepr Hunter/VPO-101",
+    "cartridge": "762x51",
+    "type": "Assault Carbine"
+  },
+  {
+    "name": "ADAR 2-15",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-101",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-102",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-103",
+    "cartridge": "762x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-104",
+    "cartridge": "762x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-105",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-74",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-74M",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AK-74N",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKM",
+    "cartridge": "762x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKMN",
+    "cartridge": "762x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKMS",
+    "cartridge": "762x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKMSN",
+    "cartridge": "762x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKS-74",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKS-74N",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKS-74U",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKS-74UB",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "AKS-74UN",
+    "cartridge": "545x39",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "ASh-12",
+    "cartridge": "127x55",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "DT MDR",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "DT MDR .308",
+    "cartridge": "762x51",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "HK 416A5",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "M4A1",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "SA-58",
+    "cartridge": "762x51",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "TX-15 DML",
+    "cartridge": "556x45",
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "Vepr AKM/VPO-209",
+    "cartridge": 366,
+    "type": "Assault Rifle"
+  },
+  {
+    "name": "M1A",
+    "cartridge": "762x51",
+    "type": "DMR"
+  },
+  {
+    "name": "RSASS",
+    "cartridge": "762x51",
+    "type": "DMR"
+  },
+  {
+    "name": "SR-25",
+    "cartridge": "762x51",
+    "type": "DMR"
+  },
+  {
+    "name": "SVDS",
+    "cartridge": "762x54r",
+    "type": "DMR"
+  },
+  {
+    "name": "VSS Vintorez",
+    "cartridge": "9x39",
+    "type": "DMR"
+  },
+  {
+    "name": "RPK-16",
+    "cartridge": "545x39",
+    "type": "Light Machine Gun"
+  },
+  {
+    "name": "M870",
+    "cartridge": "12g",
+    "type": "Shotgun"
+  },
+  {
+    "name": "MP-133",
+    "cartridge": "12g",
+    "type": "Shotgun"
+  },
+  {
+    "name": "MP-153",
+    "cartridge": "12g",
+    "type": "Shotgun"
+  },
+  {
+    "name": "Saiga-12",
+    "cartridge": "12g",
+    "type": "Shotgun"
+  },
+  {
+    "name": "TOZ-106",
+    "cartridge": "20g",
+    "type": "Shotgun"
+  },
+  {
+    "name": "APB",
+    "cartridge": "9x18",
+    "type": "Sidearm"
+  },
+  {
+    "name": "APS",
+    "cartridge": "9x18",
+    "type": "Sidearm"
+  },
+  {
+    "name": "FN 5-7",
+    "cartridge": "57x28",
+    "type": "Sidearm"
+  },
+  {
+    "name": "GLOCK17",
+    "cartridge": "9x19",
+    "type": "Sidearm"
+  },
+  {
+    "name": "GLOCK18C",
+    "cartridge": "9x19",
+    "type": "Sidearm"
+  },
+  {
+    "name": "M9A3",
+    "cartridge": "9x19",
+    "type": "Sidearm"
+  },
+  {
+    "name": "MP-443 \"Grach",
+    "cartridge": "9x19",
+    "type": "Sidearm"
+  },
+  {
+    "name": "P226R",
+    "cartridge": "9x19",
+    "type": "Sidearm"
+  },
+  {
+    "name": "PB pistol",
+    "cartridge": "9x18",
+    "type": "Sidearm"
+  },
+  {
+    "name": "DVL-10",
+    "cartridge": "762x51",
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "M700",
+    "cartridge": "762x51",
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "Mosin",
+    "cartridge": "762x54r",
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "Mosin Inf.",
+    "cartridge": "762x54r",
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "SV-98",
+    "cartridge": "762x54r",
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "T-5000",
+    "cartridge": "762x51",
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "VPO-215",
+    "cartridge": 366,
+    "type": "Sniper Rifle"
+  },
+  {
+    "name": "MP5",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "MP5K-N",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "MP7A1",
+    "cartridge": "46x30",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "MP7A2",
+    "cartridge": "46x30",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "MP9",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "MP9-N",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "MPX",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "P90",
+    "cartridge": "57x28",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "PP-19-01 Vityaz-SN",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "PP-9 \"Klin",
+    "cartridge": "9x18",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "PP-91 \"Kedr",
+    "cartridge": "9x18",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "PP-91-01 \"Kedr-B",
+    "cartridge": "9x18",
+    "type": "Submachine Gun"
+  },
+  {
+    "name": "Saiga-9",
+    "cartridge": "9x19",
+    "type": "Submachine Gun"
+  }
+]

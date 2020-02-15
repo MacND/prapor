@@ -1,0 +1,21 @@
+{
+  "customs": {
+    "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Customs-2d-by-ROFLWOFFL.png?version=4cd838178f4d384564d50da65e4fcd5e"
+  },
+  "woods": {
+    "main": "http://marvelin.se/____impro/1/onewebmedia/woods_marvelin.jpg?etag=\"2de2fe-5a67ad49\"&sourceContentType=image%2Fjpeg"
+  },
+  "shoreline": {
+    "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/Shoreline_marvelin_2_updated.png?version=f28651df0d566bdc1996aeeacb496d15",
+    "resort": "http://marvelin.se/____impro/1/onewebmedia/spa_marvelin1_1.jpg?etag=\"399845-5a8432a7\"&sourceContentType=image%2Fjpeg"
+  },
+  "factory": {
+    "main": "http://marvelin.se/____impro/1/onewebmedia/Factory_marvelin1_2.jpg?etag=\"231114-5a875602\"&sourceContentType=image%2Fjpeg"
+  },
+  "interchange": {
+    "main": "http://marvelin.se/____impro/1/onewebmedia/interchange_marvelin.jpg?etag=\"63983a-5c4ad993\"&sourceContentType=image%2Fjpeg"
+  },
+  "reserve": {
+    "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/thumb/c/c4/WofflReserveMap.png/800px-WofflReserveMap.png?version=0317fb1258c1380426219cf40f01b86e"
+  }
+}

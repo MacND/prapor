@@ -1,0 +1,22 @@
+{
+  "name": "prapor",
+  "version": "0.1.0",
+  "description": "Discord bot providing Escape from Tarkov information",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/macnd/prapor"
+  },
+  "author": "Jonathan Linn <npmjs@voluspa.app> (https://github.com/MacND)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "easy-table": "^1.1.1",
+    "enmap": "^5.2.4",
+    "forever": "^2.0.0",
+    "fs": "0.0.1-security"
+  }
+}

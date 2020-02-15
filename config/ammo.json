@@ -1,0 +1,757 @@
+{
+  "12g": {
+    "weapons": [
+      "M870",
+      "MP-133",
+      "MP-153",
+      "Saiga-12"
+    ],
+    "ammoTypes": [
+      {
+        "name": "5.25mm Buckshot",
+        "damage": 34,
+        "armourPen": 1
+      },
+      {
+        "name": "8.5mm Buckshot \"Magnum\"",
+        "damage": 44,
+        "armourPen": 2
+      },
+      {
+        "name": "6.5mm Buckshot \"Express\"",
+        "damage": 29,
+        "armourPen": 3
+      },
+      {
+        "name": "7mm Buckshot",
+        "damage": 32,
+        "armourPen": 3
+      },
+      {
+        "name": "Flechette",
+        "damage": 19,
+        "armourPen": 28
+      },
+      {
+        "name": "RIP Slug",
+        "damage": 235,
+        "armourPen": 0
+      },
+      {
+        "name": "Superformance HP Slug",
+        "damage": 190,
+        "armourPen": 2
+      },
+      {
+        "name": "Grizzly 40 Slug",
+        "damage": 170,
+        "armourPen": 12
+      },
+      {
+        "name": "HP Copper Sabot Premier",
+        "damage": 160,
+        "armourPen": 13
+      },
+      {
+        "name": "Led Slug",
+        "damage": 147,
+        "armourPen": 15
+      },
+      {
+        "name": "Dual Sabot Slug",
+        "damage": 75,
+        "armourPen": 17
+      },
+      {
+        "name": "Slug \"Poleva-3\"",
+        "damage": 130,
+        "armourPen": 17
+      },
+      {
+        "name": "FTX Custom Lite Slug",
+        "damage": 153,
+        "armourPen": 18
+      },
+      {
+        "name": "Slug \"Poleva-6u\" ",
+        "damage": 140,
+        "armourPen": 20
+      },
+      {
+        "name": "Shell With .50 BMG (Tracer)",
+        "damage": 177,
+        "armourPen": 23
+      },
+      {
+        "name": "AP 20 Slug",
+        "damage": 164,
+        "armourPen": 32
+      }
+    ]
+  },
+
+  "20g": {
+    "weapons": [
+      "TOZ-160"
+    ],
+    "ammoTypes": [
+      {
+        "name": "5.6mm Buckshot",
+        "damage": 25,
+        "armourPen": 1
+      },
+      {
+        "name": "6.2mm Buckshot",
+        "damage": 21,
+        "armourPen": 2
+      },
+      {
+        "name": "7.5mm Buckshot",
+        "damage": 24,
+        "armourPen": 3
+      },
+      {
+        "name": "7.3mm Buckshot",
+        "damage": 22,
+        "armourPen": 3
+      },
+      {
+        "name": "Devastator Slug",
+        "damage": 188,
+        "armourPen": 4
+      },
+      {
+        "name": "Slug \"Poleva-3\"",
+        "damage": 110,
+        "armourPen": 14
+      },
+      {
+        "name": "Star Slug",
+        "damage": 134,
+        "armourPen": 16
+      },
+      {
+        "name": "Slug \"Poleva-6u\" ",
+        "damage": 120,
+        "armourPen": 17
+      }
+    ]
+  },
+
+  "9x18": {
+    "weapons": [
+      "APB",
+      "APS",
+      "PB pistol",
+      "PM (t) pistol",
+      "PM pistol",
+      "PP-9 \"Klin\"",
+      "PP-91 \"Kedr\"",
+      "PP-91-01 \"Kedr-B\""
+    ],
+    "ammoTypes": [
+      {
+        "name": "SP8",
+        "damage": 67,
+        "armourPen": 1
+      },
+      {
+        "name": "SP7",
+        "damage": 77,
+        "armourPen": 2
+      },
+      {
+        "name": "PSV",
+        "damage": 69,
+        "armourPen": 3
+      },
+      {
+        "name": "P gzh",
+        "damage": 50,
+        "armourPen": 5
+      },
+      {
+        "name": "PSO gzh",
+        "damage": 54,
+        "armourPen": 5
+      },
+      {
+        "name": "PS gs PPO",
+        "damage": 55,
+        "armourPen": 6
+      },
+      {
+        "name": "PRS gs",
+        "damage": 58,
+        "armourPen": 6
+      },
+      {
+        "name": "PPE gzh",
+        "damage": 61,
+        "armourPen": 7
+      },
+      {
+        "name": "PPT gzh",
+        "damage": 59,
+        "armourPen": 8
+      },
+      {
+        "name": "PST gzh",
+        "damage": 50,
+        "armourPen": 12
+      },
+      {
+        "name": "RG028 gzh",
+        "damage": 65,
+        "armourPen": 13
+      },
+      {
+        "name": "BZT gzh",
+        "damage": 55,
+        "armourPen": 16
+      },
+      {
+        "name": "PBM",
+        "damage": 44,
+        "armourPen": 22
+      },
+      {
+        "name": "PMM",
+        "damage": 56,
+        "armourPen": 25
+      }
+    ]
+  },
+
+  "762x25": {
+    "weapons": [
+      "TT pistol"
+    ],
+    "ammoTypes": [
+      {
+        "name": "LRNPC",
+        "damage": 66,
+        "armourPen": 5
+      },
+      {
+        "name": "LRN",
+        "damage": 64,
+        "armourPen": 6
+      },
+      {
+        "name": "FMJ43",
+        "damage": 60,
+        "armourPen": 8
+      },
+      {
+        "name": "akbs",
+        "damage": 58,
+        "armourPen": 9
+      },
+      {
+        "name": "P Gl",
+        "damage": 58,
+        "armourPen": 10
+      },
+      {
+        "name": "T Gzh (Tracer)",
+        "damage": 60,
+        "armourPen": 12
+      },
+      {
+        "name": "Pst gzh",
+        "damage": 50,
+        "armourPen": 24
+      }
+    ]
+  },
+
+  "9x19": {
+    "weapons": [
+      "GLOCK17",
+      "GLOCK18C",
+      "M9A3",
+      "MP-443 \"Grach\"",
+      "P226R",
+      "MP5",
+      "MP5K-N",
+      "MPX",
+      "PP-19-01 Vityaz-SN",
+      "Saiga-9",
+      "MP9",
+      "MP9-N"
+    ],
+    "ammoTypes": [
+      {
+        "name": "RIP",
+        "damage": 102,
+        "armourPen": 2
+      },
+      {
+        "name": "PSO gzh",
+        "damage": 56,
+        "armourPen": 10
+      },
+      {
+        "name": "Luger CCI",
+        "damage": 70,
+        "armourPen": 10
+      },
+      {
+        "name": "Green Tracer",
+        "damage": 58,
+        "armourPen": 14
+      },
+      {
+        "name": "PST gzh",
+        "damage": 54,
+        "armourPen": 18
+      },
+      {
+        "name": "AP 6.3",
+        "damage": 52,
+        "armourPen": 25
+      }
+    ]
+  },
+
+  "9x21": {
+    "weapons": [
+      "SR-1MP Gyurza"
+    ],
+    "ammoTypes": [
+      {
+        "name": "sp12",
+        "damage": 75,
+        "armourPen": 14
+      },
+      {
+        "name": "sp11",
+        "damage": 70,
+        "armourPen": 16
+      },
+      {
+        "name": "sp10",
+        "damage": 49,
+        "armourPen": 32
+      },
+      {
+        "name": "sp13",
+        "damage": 62,
+        "armourPen": 36
+      }
+    ]
+  },
+
+  "57x28": {
+    "weapons": [
+      "FN 5-7",
+      "P90"
+    ],
+    "ammoTypes": [
+      {
+        "name": "r37f",
+        "damage": 98,
+        "armourPen": 8
+      },
+      {
+        "name": "ss198lf",
+        "damage": 74,
+        "armourPen": 10
+      },
+      {
+        "name": "r37x",
+        "damage": 81,
+        "armourPen": 11
+      },
+      {
+        "name": "ss197sr",
+        "damage": 62,
+        "armourPen": 20
+      },
+      {
+        "name": "ss190",
+        "damage": 57,
+        "armourPen": 32
+      },
+      {
+        "name": "l191 (Tracer)",
+        "damage": 58,
+        "armourPen": 33
+      },
+      {
+        "name": "sb193",
+        "damage": 54,
+        "armourPen": 35
+      }
+    ]
+  },
+
+  "46x30": {
+    "weapons": [
+      "MP7A1", 
+      "MP7A2"
+    ],
+    "ammoTypes": [
+      {
+        "name": "Action SX",
+        "damage": 65,
+        "armourPen": 13
+      },
+      {
+        "name": "FMJ SX",
+        "damage": 43,
+        "armourPen": 30
+      },
+      {
+        "name": "Subsonic SX",
+        "damage": 41,
+        "armourPen": 34
+      },
+      {
+        "name": "AP SX",
+        "damage": 35,
+        "armourPen": 47
+      }
+    ]
+  },
+
+  "9x39": {
+    "weapons": [
+      "AS VAL",
+      "VSS Vintorez"
+    ],
+    "ammoTypes": [
+      {
+        "name": "sp5",
+        "damage": 68,
+        "armourPen": 35
+      },
+      {
+        "name": "sp6",
+        "damage": 58,
+        "armourPen": 43
+      },
+      {
+        "name": "SPP",
+        "damage": 67,
+        "armourPen": 45
+      },
+      {
+        "name": "BP",
+        "damage": 60,
+        "armourPen": 50
+      }
+    ]
+  },
+
+  "366": {
+    "weapons": [
+      "Vepr AKM/VPO-209",
+      "VPO-215"
+    ],
+    "ammoTypes": [
+      {
+        "name": "Geksa",
+        "damage": 80,
+        "armourPen": 14
+      },
+      {
+        "name": "FMJ",
+        "damage": 73,
+        "armourPen": 20
+      },
+      {
+        "name": "EKO",
+        "damage": 65,
+        "armourPen": 30
+      }
+    ]
+  },
+
+  "545x39": {
+    "weapons": [
+      "AK-105",
+      "AK-74",
+      "AK-74M",
+      "AK-74N",
+      "AKS-74",
+      "AKS-74N",
+      "AKS-74U",
+      "AKS-74UB",
+      "AKS-74UN",
+      "RPK-16"
+    ],
+    "ammoTypes": [
+      {
+        "name": "SP",
+        "damage": 68,
+        "armourPen": 11
+      },
+      {
+        "name": "HP",
+        "damage": 74,
+        "armourPen": 11
+      },
+      {
+        "name": "PRS",
+        "damage": 60,
+        "armourPen": 14
+      },
+      {
+        "name": "US",
+        "damage": 65,
+        "armourPen": 15
+      },
+      {
+        "name": "FMJ",
+        "damage": 54,
+        "armourPen": 20
+      },
+      {
+        "name": "T (Tracer)",
+        "damage": 57,
+        "armourPen": 20
+      },
+      {
+        "name": "PS",
+        "damage": 50,
+        "armourPen": 25
+      },
+      {
+        "name": "PP",
+        "damage": 46,
+        "armourPen": 30
+      },
+      {
+        "name": "BP",
+        "damage": 48,
+        "armourPen": 32
+      },
+      {
+        "name": "BT (Tracer)",
+        "damage": 44,
+        "armourPen": 37
+      },
+      {
+        "name": "BS",
+        "damage": 40,
+        "armourPen": 51
+      },
+      {
+        "name": "7n39",
+        "damage": 37,
+        "armourPen": 62
+      }
+    ]
+  },
+
+  "556x45": {
+    "weapons": [
+      "ADAR 2-15",
+      "AK-101",
+      "AK-102",
+      "DT MDR",
+      "HK 416A5",
+      "M4A1",
+      "TX-15 DML"
+    ],
+    "ammoTypes": [
+      {
+        "name": "Warmage",
+        "damage": 85,
+        "armourPen": 3
+      },
+      {
+        "name": "55_HP",
+        "damage": 75,
+        "armourPen": 9
+      },
+      {
+        "name": "MK_255_Mod_0",
+        "damage": 60,
+        "armourPen": 17
+      },
+      {
+        "name": "M856 (Tracer)",
+        "damage": 55,
+        "armourPen": 23
+      },
+      {
+        "name": "FMJ",
+        "damage": 52,
+        "armourPen": 24
+      },
+      {
+        "name": "M855",
+        "damage": 49,
+        "armourPen": 26
+      },
+      {
+        "name": "M856A1 (Tracer)",
+        "damage": 51,
+        "armourPen": 37
+      },
+      {
+        "name": "M855A1",
+        "damage": 44,
+        "armourPen": 40
+      },
+      {
+        "name": "M995",
+        "damage": 41,
+        "armourPen": 53
+      }
+    ]
+  },
+
+  "762x39": {
+    "weapons": [
+      "OP-SKS",
+      "SKS",
+      "AK-103",
+      "AK-104",
+      "AKM",
+      "AKMN",
+      "AKMS",
+      "AKMSN",
+      "Vepr KM/VPO-136"
+    ],
+    "ammoTypes": [
+      {
+        "name": "HP",
+        "damage": 83,
+        "armourPen": 15
+      },
+      {
+        "name": "US",
+        "damage": 56,
+        "armourPen": 29
+      },
+      {
+        "name": "T45M (Tracer)",
+        "damage": 62,
+        "armourPen": 31
+      },
+      {
+        "name": "PS",
+        "damage": 54,
+        "armourPen": 34
+      },
+      {
+        "name": "BP",
+        "damage": 58,
+        "armourPen": 47
+      }
+    ]
+  },
+
+  "762x51": {
+    "weapons": [
+      "Vepr Hunter/VPO-101",
+      "SA-58",
+      "DT MDR .308",
+      "M1A",
+      "RSASS",
+      "DVL-10",
+      "M700",
+      "T-5000"
+    ],
+    "ammoTypes": [
+      {
+        "name": "Ultra Nosler",
+        "damage": 102,
+        "armourPen": 15
+      },
+      {
+        "name": "BPZ FMJ",
+        "damage": 88,
+        "armourPen": 31
+      },
+      {
+        "name": "TPZ SP",
+        "damage": 60,
+        "armourPen": 36
+      },
+      {
+        "name": "M80",
+        "damage": 80,
+        "armourPen": 41
+      },
+      {
+        "name": "M62 (Tracer)",
+        "damage": 79,
+        "armourPen": 54
+      },
+      {
+        "name": "M61",
+        "damage": 70,
+        "armourPen": 68
+      }
+    ]
+  },
+
+  "762x54r": {
+    "weapons": [
+      "SVDS",
+      "Mosin",
+      "Mosin Inf.",
+      "SV-98"
+    ],
+    "ammoTypes": [
+      {
+        "name": "T-46M (Tracer)",
+        "damage": 82,
+        "armourPen": 41
+      },
+      {
+        "name": "LPS_Gzh",
+        "damage": 81,
+        "armourPen": 42
+      },
+      {
+        "name": "7N1",
+        "damage": 86,
+        "armourPen": 45
+      },
+      {
+        "name": "7BT1 (Tracer)",
+        "damage": 78,
+        "armourPen": 59
+      },
+      {
+        "name": "SNB",
+        "damage": 75,
+        "armourPen": 62
+      },
+      {
+        "name": "7n37",
+        "damage": 72,
+        "armourPen": 70
+      }
+    ]
+  },
+
+  "127x55": { 
+    "weapons": [
+      "ASh-12"
+    ], 
+    "ammoTypes": [
+      {
+        "name": "ps12a",
+        "damage": 165,
+        "armourPen": 10
+      },
+      {
+        "name": "ps12",
+        "damage": 115,
+        "armourPen": 28
+      },
+      {
+        "name": "ps12b",
+        "damage": 102,
+        "armourPen": 46
+      }
+    ]
+  }
+}
