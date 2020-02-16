@@ -1,21 +1,59 @@
 {
   "customs": {
-    "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Customs-2d-by-ROFLWOFFL.png?version=4cd838178f4d384564d50da65e4fcd5e"
+    "timer": 35,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/9f/Customs_Banner.png?version=332906d168d6be1bf27d4ab9f8547e48",
+    "description": "Taking place in an industrial part of Tarkov, Customs features a self-storage lot, a river with a bridge, a two and three story dormitory, gas stations, warehouses, construction zones, and some military checkpoints.",
+    "maps": {
+      "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/4/4f/Customs-2d-by-ROFLWOFFL.png?version=4cd838178f4d384564d50da65e4fcd5e"
+    }
   },
   "woods": {
-    "main": "http://marvelin.se/____impro/1/onewebmedia/woods_marvelin.jpg?etag=\"2de2fe-5a67ad49\"&sourceContentType=image%2Fjpeg"
+    "timer": 40,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/3/3e/Banner_woods.png?version=d1a50a6574417c6a514599dc0303e814",
+    "description": "A moderately sized section of woods with some open fields, small hills, a logging camp, and a couple of bunkers.",
+    "maps": {
+      "main": "http://marvelin.se/____impro/1/onewebmedia/woods_marvelin.jpg?etag=\"2de2fe-5a67ad49\"&sourceContentType=image%2Fjpeg"
+    }
   },
   "shoreline": {
-    "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/Shoreline_marvelin_2_updated.png?version=f28651df0d566bdc1996aeeacb496d15",
-    "resort": "http://marvelin.se/____impro/1/onewebmedia/spa_marvelin1_1.jpg?etag=\"399845-5a8432a7\"&sourceContentType=image%2Fjpeg"
+    "timer": 50,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d5/Banner_shoreline.png?version=452c3889092949d4babdef8eaf04a65c",
+    "description": "A large map that runs along a shoreline. A small town, a sunken village, a gas station, a pier, a guarded pill-box, a radio station, and, most notably, a large 3-story health resort are included. The health resort also has a basement in-ground pool, a gym, tennis courts, and a theatre.",
+    "maps": {
+      "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d4/Shoreline_marvelin_2_updated.png?version=f28651df0d566bdc1996aeeacb496d15",
+      "resort": "http://marvelin.se/____impro/1/onewebmedia/spa_marvelin1_1.jpg?etag=\"399845-5a8432a7\"&sourceContentType=image%2Fjpeg"
+    }
   },
   "factory": {
-    "main": "http://marvelin.se/____impro/1/onewebmedia/Factory_marvelin1_2.jpg?etag=\"231114-5a875602\"&sourceContentType=image%2Fjpeg"
+    "timer": 20,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/1/1a/Factory-Day_Banner.png?version=169c498a39656624501feefb5487c325",
+    "description": "A small, fast-paced CQC map inside of a multi-story industrial factory, complete with tunnels and overhead walkways.",
+    "maps": {
+      "main": "http://marvelin.se/____impro/1/onewebmedia/Factory_marvelin1_2.jpg?etag=\"231114-5a875602\"&sourceContentType=image%2Fjpeg"
+    }
   },
   "interchange": {
-    "main": "http://marvelin.se/____impro/1/onewebmedia/interchange_marvelin.jpg?etag=\"63983a-5c4ad993\"&sourceContentType=image%2Fjpeg"
+    "timer": 45,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/a/af/Interchange.jpg?version=0408e22ed3818982218cc890083f489e",
+    "description": "A three-story shopping complex comprising of a variety of different types of stores typical to malls, as well as 3 major anchor stores IDEA, OLI, and Goshan. It also has underground parking, roads circling the building, and a go-kart track.",
+    "maps": {
+      "main": "http://marvelin.se/____impro/1/onewebmedia/interchange_marvelin.jpg?etag=\"63983a-5c4ad993\"&sourceContentType=image%2Fjpeg"
+    }
   },
   "reserve": {
-    "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/thumb/c/c4/WofflReserveMap.png/800px-WofflReserveMap.png?version=0317fb1258c1380426219cf40f01b86e"
+    "timer": 45,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/f/f4/Reserve.png?version=b9204ace08614aa41ff657cc4110b23b",
+    "description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
+    "maps": {
+      "main": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/thumb/c/c4/WofflReserveMap.png/800px-WofflReserveMap.png?version=0317fb1258c1380426219cf40f01b86e"
+    }
+  },
+  "labs": {
+    "timer": 40,
+    "banner": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/d/d7/TheLabBanner.png?version=eec9b7cc119414b26178ad634e4d99d2",
+    "description": "Underground laboratory complex TerraGroup Labs is a secret object right under the center of Tarkov. Officially, this research center does not exist and, based on data scraps, is engaged in R&D, testing and simulation projects in chemistry, physics, biology, and high-tech areas.",
+    "maps": {
+      "all-floors": "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/0/0a/LabsMapNehalemX.webp?version=0a4f2289e8c6c57efdb64fc4c9dd3bad"
+    }
   }
 }

@@ -33,5 +33,5 @@ module.exports = {
   }
 },
 
-help: 'Short command blurb.  Extended information on the command should follow the short blurb.'
+help: 'Show information about the specified ammo type.'
 };

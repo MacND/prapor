@@ -11,12 +11,13 @@ module.exports = {
     if (!map) { return message.reply(`Couldn't find a map with that name.`); }
 
     const embed = new Discord.MessageEmbed().
-      setTitle(`Map - ${args[0]}`).
+      setTitle(args[0]).
       setColor(5517157).
-      setTimestamp();
+      setDescription(`Timer: ${map.timer} minutes.\n${map.description}`).
+      setImage(map.banner);
 
-    for (const area in map) {
-      embed.addField(area, map[area]);
+    for (const area in map.maps) {
+      embed.addField(area, map.maps[area]);
     }
     
     message.channel.send(embed);
@@ -25,5 +26,5 @@ module.exports = {
     }
   },
 
-  help: 'Show available maps for the specified '
+  help: 'Show information for the specified map.'
 };
