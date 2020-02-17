@@ -1,0 +1,24 @@
+sudo: required
+
+services:
+  - docker
+
+language: node_js
+node_js:
+ - "lts/*"
+
+cache:
+  directories:
+    - node_modules
+
+script:
+  - npm run test 
+
+after_success:
+  - docker --version
+  - pip install --user awscli 
+  - export PATH=$PATH:$HOME/.local/bin 
+  - eval $(aws ecr get-login-password | docker login --username AWS --password-stdin "${AWS_ACCOUNT_ID}".dkr.ecr.eu-west-1.amazonaws.com) #needs AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY envvars
+  - docker build -t prapor .
+  - docker tag prapor:latest "${AWS_ACCOUNT_ID}".dkr.ecr.eu-west-1.amazonaws.com/prapor:latest
+  - docker push "${AWS_ACCOUNT_ID}".dkr.ecr.eu-west-1.amazonaws.com/prapor:latest

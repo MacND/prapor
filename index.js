@@ -7,7 +7,7 @@ const client = new Discord.Client({ disableEveryone: true });
 client.config = { 
   token: process.env.DISCORD_TOKEN,
   prefix: process.env.COMMAND_PREFIX
-}
+};
 
 
 fs.readdir(__basedir + '/events/', (err, files) => {
